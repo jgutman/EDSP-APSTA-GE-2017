@@ -1,0 +1,15 @@
+base
+pander
+plyr
+Matrix
+foreach
+glmnet
+gplots
+ROCR
+rpart
+partykit
+lattice
+ggplot2
+caret
+knitr
+tree
